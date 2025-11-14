@@ -10,7 +10,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "8278958666:AAFpdwSnjZdBKQcJQ1FqCs0TqTW6Mip4rgs"
+TOKEN = ""
 BASE_PATH = os.getcwd()
 
 # ---------------دیتابیس
